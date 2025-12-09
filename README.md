@@ -67,15 +67,6 @@ Here, you'll find:
 ---
 
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mariahqazi&show_icons=true&theme=radical" alt="Mariah's GitHub stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariahqazi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 <h2 align="left">⚡ Fun Fact</h2>
 
 > I love turning messy datasets into clean, actionable stories!
